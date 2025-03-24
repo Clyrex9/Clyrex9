@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Clyrex9
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning JS and C
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me clyrex9@gmail.com
 
